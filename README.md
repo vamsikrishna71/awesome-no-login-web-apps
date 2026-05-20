@@ -352,3 +352,10 @@ To save the world from creating user accounts and installing software applicatio
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Avi Aryan has waived all copyright and related or neighboring rights to this work.
+
+
+---
+
+## 📦 All-in-One No-Login Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools, all working without account creation: PDF (merge/split/compress/sign/OCR/redact/rotate/watermark/unlock), image (AI background removal, HEIC→JPG, resize, compress), video to GIF, QR codes, invoices, developer utilities (JSON, Base64, UUID, JWT, hash, regex, password gen). 100% local processing, zero upload.
