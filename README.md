@@ -121,6 +121,7 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Cloud Convert](https://cloudconvert.com/) - Convert from anything to anything including audio, video, font, document and lots more. Excellent integration with cloud storage services like Google Drive and Dropbox. Direct links.
 * [Online Convert](http://www.online-convert.com/) - Collection of audio, video, image, document, ebook and archive converter. No file size limits and direct download links upon conversion.
+* [File Converter](https://fileontap.com/) - Free browser-local HEIC/WebP/PNG/JPG conversion, compression, and image↔PDF; no signup, files stay on your device.
 * [PDF <=> EPUB](http://pdfepub.com/) - PDF to EPUB converter and vice versa.
 * [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more.
 * [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
